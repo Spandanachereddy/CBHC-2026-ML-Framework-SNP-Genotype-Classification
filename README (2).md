@@ -15,3 +15,5 @@ Additional information for the poster presentation "A Machine Learning Framework
 [5] F. Qi. Mouse Genotyping Array-Based Analysis of Variation at Single Nucleotide Polymorphic Loci in the Context of Macro- and Micro-environments. MSc Thesis, Western University, 2022.
 
 [6] M. Belsare. The evolutionary response to hunting-induced selection on horn characteristics in Yukon thinhorn sheep (*Ovis dalli*). MSc Thesis, Western University.
+
+[10] https://www.criver.com/lab-mice?region=24
